@@ -13,12 +13,12 @@ Dependencies:
 Python 3.x
 
 Spacy/Textacy:
-
+```
 pip install -U spacy
 pip install -U textacy[all]
 python -m spacy download en
 python -m spacy download en_core_web_lg
-
+```
 ## Authors
 
 - **Ricardo De Lima** - _Initial work_
